@@ -9,4 +9,4 @@ Edit praw.ini with your bots:
 
 Then, edit modmailChecker.py with the subreddit mail to be checked. Next, edit the badWords list with words (or phases) you want checked. 
 
-Now, just run the script, it'll run constantly so may be a good idea to cron job it. 
+Now, just run the script, it'll run constantly so may be a good idea to cron job it to run at regular intervals.
